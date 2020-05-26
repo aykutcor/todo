@@ -1,0 +1,39 @@
+[
+  {
+    "_class": "com.aykutc.todo.entity.Topic",
+    "topicName": "pendings"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Topic",
+    "topicName": "inProgress"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Topic",
+    "topicName": "done"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Todo",
+    "todo": "Yüzünü Yıka",
+    "topic_id" : "1"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Todo",
+    "todo": "Kahve İç",
+    "topic_id" : "2"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Todo",
+    "todo": "Gazete Oku",
+    "topic_id" : "3"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Todo",
+    "todo": "Kahvaltı Yap",
+    "topic_id" : "1"
+  },
+  {
+    "_class": "com.aykutc.todo.entity.Todo",
+    "todo": "Saçını Tara",
+    "topic_id" : "2"
+  }
+]
